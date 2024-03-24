@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RYORURU
 - 👀 I’m interested in Cloud Technology
-- 🌱 I’m currently learning Football
+- 🌱 I’m currently learning TouchDesigner
 - 💞️ I’m looking to collaborate on CDK
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
