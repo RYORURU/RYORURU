@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RYORURU
 - 👀 I’m interested in Cloud Technology
 - 🌱 I’m currently learning TouchDesigner
-- 💞️ I’m looking to collaborate on CDK
-- 📫 How to reach me ...
+- 💞️ I’m developing on Python
+- 📫 How to reach me ryomaru77@gmail.com 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
